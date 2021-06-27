@@ -43,7 +43,10 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/text_dialogue"
         android:layout_marginStart="20dp"
-        android:layout_marginEnd="20dp" />
+        android:textColor="@color/black"
+        android:layout_marginEnd="20dp"
+        android:background="@drawable/edit_text_bottom_border"
+        android:inputType="text" />
 
 
     <Button

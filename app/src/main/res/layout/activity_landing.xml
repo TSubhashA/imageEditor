@@ -36,6 +36,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="30dp"
         android:gravity="center"
+        android:textColor="@color/white"
         android:onClick="btnClick"
         android:text="Select Image"
         android:textAllCaps="false" />
